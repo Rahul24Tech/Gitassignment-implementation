@@ -6,4 +6,4 @@ if hungry=="y":
     print("Pasta")
 
 else:
-    print("Do your work")
+    print("Do your work Tushar")
